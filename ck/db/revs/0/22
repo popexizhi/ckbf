@@ -1,0 +1,53 @@
+id: 0-22.0.r22/0
+type: dir
+count: 0
+cpath: /bain-map
+copyroot: 0 /
+
+PLAIN
+K 6
+CRM.mm
+V 19
+file 0-9.0.r16/6768
+K 5
+ZF.mm
+V 19
+file 0-1.0.r6/11968
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 16
+dir 0-22.0.r22/0
+K 8
+class.mm
+V 19
+file 0-8.0.r16/6965
+K 3
+pic
+V 17
+dir 3-1.0.r1/7463
+K 9
+planWL.mm
+V 20
+file 0-5.0.r17/13756
+K 9
+监控.mm
+V 20
+file 0-14.0.r15/6475
+END
+ENDREP
+id: 0.0.r22/374
+type: dir
+pred: 0.0.r21/795
+count: 22
+text: 22 68 293 293 578815be582d347dd469418a507a3f88
+cpath: /
+copyroot: 0 /
+
+_0.0.t21-l add-dir false false /bain-map
+
+
+374 505

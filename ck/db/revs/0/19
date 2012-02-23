@@ -1,0 +1,57 @@
+id: 0-19.0.r19/0
+type: dir
+count: 0
+cpath: /apple
+copyroot: 0 /
+
+PLAIN
+K 6
+CRM.mm
+V 19
+file 0-9.0.r16/6768
+K 5
+ZF.mm
+V 19
+file 0-1.0.r6/11968
+K 5
+apple
+V 16
+dir 0-19.0.r19/0
+K 14
+apple_list.xls
+V 22
+file 0-18.0.r18/582257
+K 8
+class.mm
+V 19
+file 0-8.0.r16/6965
+K 3
+pic
+V 17
+dir 3-1.0.r1/7463
+K 9
+planWL.mm
+V 20
+file 0-5.0.r17/13756
+K 9
+监控.mm
+V 20
+file 0-14.0.r15/6475
+K 6
+附件
+V 21
+dir 3-18.0.r18/585449
+END
+ENDREP
+id: 0.0.r19/420
+type: dir
+pred: 0.0.r18/585898
+count: 19
+text: 19 65 342 342 24423f88de9ca5e633a441ca0e892130
+cpath: /
+copyroot: 0 /
+
+_0.0.t18-i add-dir false false /apple
+
+
+420 554

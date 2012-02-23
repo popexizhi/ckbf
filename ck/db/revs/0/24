@@ -1,0 +1,33 @@
+id: 0-24.0.r24/0
+type: dir
+count: 0
+cpath: /thinking
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 19
+dir 0-22.0.r23/1432
+K 8
+thinking
+V 16
+dir 0-24.0.r24/0
+END
+ENDREP
+id: 0.0.r24/192
+type: dir
+pred: 0.0.r23/1666
+count: 24
+text: 24 68 111 111 1401c26708d6d39fece11f3ba3d727b4
+cpath: /
+copyroot: 0 /
+
+_0.0.t23-n add-dir false false /thinking
+
+
+192 324

@@ -1,0 +1,37 @@
+id: 0-26.0.r26/0
+type: dir
+count: 0
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 19
+dir 0-22.0.r23/1432
+K 8
+learning
+V 16
+dir 0-26.0.r26/0
+K 8
+thinking
+V 20
+dir 0-24.0.r25/61395
+END
+ENDREP
+id: 0.0.r26/231
+type: dir
+pred: 0.0.r25/61670
+count: 26
+text: 26 68 150 150 2ebfe634446bb100d62221149b283805
+cpath: /
+copyroot: 0 /
+
+_0.0.t25-p add-dir false false /learning
+
+
+231 364

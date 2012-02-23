@@ -1,0 +1,127 @@
+id: 0-5.4-23.r23/0
+type: file
+pred: 0-5.0.r17/13756
+count: 9
+text: 17 0 13734 72579 76ceb4603afd994b4d453278eb8e4cd0 074d64131a72237d4d243990dd819a4a844ee8cc 16-g/_1
+cpath: /bain-map/planWL.mm
+copyfrom: 22 /planWL.mm
+
+id: 0-14.5-23.r23/218
+type: file
+pred: 0-14.0.r15/6475
+count: 2
+text: 15 5038 1218 4819 68e8cc0ca0ddf5977dc7d8c58fe24f61 9069e7bc225990661c8d6130021fc70c3a0ba3ad 14-e/_2
+cpath: /bain-map/监控.mm
+copyfrom: 22 /监控.mm
+
+id: 0-1.1-23.r23/440
+type: file
+pred: 0-1.0.r6/11968
+count: 5
+text: 6 1386 10367 78901 fd221a906d0f1a2c7d3b231059062d39 623a22a30bb722db2521330afc1b901299bc752b 5-5/_2
+cpath: /bain-map/ZF.mm
+copyfrom: 22 /ZF.mm
+
+id: 0-9.0-23.r23/652
+type: file
+pred: 0-9.0.r16/6768
+count: 3
+text: 16 1372 380 10651 9d283c28f6e13e02830231cc2c5d332f fa6d082773f64f22bcce2e44b38d96700ecba628 15-f/_2
+cpath: /bain-map/CRM.mm
+copyfrom: 22 /CRM.mm
+
+id: 3-1.3-23.r23/866
+type: dir
+pred: 3-1.0.r1/7463
+count: 1
+cpath: /bain-map/pic
+copyfrom: 22 /pic
+
+id: 0-8.2-23.r23/966
+type: file
+pred: 0-8.0.r16/6965
+count: 5
+text: 16 1774 4776 20039 073c7b01af65bc17b3fb250220b213ae 1b08097636904749fd945bf45a02e2ed47c18c14 15-f/_3
+cpath: /bain-map/class.mm
+copyfrom: 22 /class.mm
+
+PLAIN
+K 6
+CRM.mm
+V 21
+file 0-9.0-23.r23/652
+K 5
+ZF.mm
+V 21
+file 0-1.1-23.r23/440
+K 8
+class.mm
+V 21
+file 0-8.2-23.r23/966
+K 3
+pic
+V 20
+dir 3-1.3-23.r23/866
+K 9
+planWL.mm
+V 19
+file 0-5.4-23.r23/0
+K 9
+监控.mm
+V 22
+file 0-14.5-23.r23/218
+END
+ENDREP
+id: 0-22.0.r23/1432
+type: dir
+pred: 0-22.0.r22/0
+count: 1
+text: 23 1185 234 234 a55da82b79d7744ca3f4d384abb58d1f
+cpath: /bain-map
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 19
+dir 0-22.0.r23/1432
+END
+ENDREP
+id: 0.0.r23/1666
+type: dir
+pred: 0.0.r22/374
+count: 23
+text: 23 1577 76 76 6f9e62d7aeb7a1e50ef8b9fb3b70b4de
+cpath: /
+copyroot: 0 /
+
+0-8._2.t22-m add-file false false /bain-map/class.mm
+22 /class.mm
+0-5.0.r17/13756 delete-file false false /planWL.mm
+
+0-14.0.r15/6475 delete-file false false /监控.mm
+
+0-1.0.r6/11968 delete-file false false /ZF.mm
+
+0-9.0.r16/6768 delete-file false false /CRM.mm
+
+0-5._4.t22-m add-file false false /bain-map/planWL.mm
+22 /planWL.mm
+0-14._5.t22-m add-file false false /bain-map/监控.mm
+22 /监控.mm
+0-1._1.t22-m add-file false false /bain-map/ZF.mm
+22 /ZF.mm
+3-1.0.r1/7463 delete-dir false false /pic
+
+0-9._0.t22-m add-file false false /bain-map/CRM.mm
+22 /CRM.mm
+0-8.0.r16/6965 delete-file false false /class.mm
+
+3-1._3.t22-m add-dir false false /bain-map/pic
+22 /pic
+
+1666 1798

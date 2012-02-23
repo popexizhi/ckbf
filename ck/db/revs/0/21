@@ -1,0 +1,73 @@
+id: 0-18.0-21.r21/0
+type: file
+pred: 0-18.0.r18/582257
+count: 1
+text: 18 0 290393 330752 02c7342353b179b9ac1e055362502bdd 4364e2ce4eba519934536631c5552abcf55801f6 17-h/_2
+props: 18 582191 53 0 113136892f2137aa0116093a524ade0b
+cpath: /apple/apple_list.xls
+copyfrom: 20 /apple_list.xls
+
+PLAIN
+K 14
+apple_list.xls
+V 20
+file 0-18.0-21.r21/0
+K 6
+附件
+V 19
+dir 3-18.0-20.r20/0
+END
+ENDREP
+id: 0-19.0.r21/384
+type: dir
+pred: 0-19.0.r20/214
+count: 2
+text: 21 285 86 86 60fa534dd9905a6bc2e18c6eacce1ea4
+cpath: /apple
+copyroot: 0 /
+
+PLAIN
+K 6
+CRM.mm
+V 19
+file 0-9.0.r16/6768
+K 5
+ZF.mm
+V 19
+file 0-1.0.r6/11968
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+class.mm
+V 19
+file 0-8.0.r16/6965
+K 3
+pic
+V 17
+dir 3-1.0.r1/7463
+K 9
+planWL.mm
+V 20
+file 0-5.0.r17/13756
+K 9
+监控.mm
+V 20
+file 0-14.0.r15/6475
+END
+ENDREP
+id: 0.0.r21/795
+type: dir
+pred: 0.0.r20/671
+count: 21
+text: 21 524 258 258 218a3e700b74e55f2f5c90f9b4e7c2db
+cpath: /
+copyroot: 0 /
+
+0-18.0.r18/582257 delete-file false false /apple_list.xls
+
+0-18._0.t20-k add-file false false /apple/apple_list.xls
+20 /apple_list.xls
+
+795 927

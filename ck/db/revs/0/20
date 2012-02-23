@@ -1,0 +1,72 @@
+id: 3-18.0-20.r20/0
+type: dir
+pred: 3-18.0.r18/585449
+count: 1
+text: 18 585338 98 98 b849cab918deb123bd094a52af16078a
+cpath: /apple/附件
+copyfrom: 19 /附件
+
+PLAIN
+K 6
+附件
+V 19
+dir 3-18.0-20.r20/0
+END
+ENDREP
+id: 0-19.0.r20/214
+type: dir
+pred: 0-19.0.r19/0
+count: 1
+text: 20 161 40 40 053142b694cc5c7ded45fabdf431adaf
+cpath: /apple
+copyroot: 0 /
+
+PLAIN
+K 6
+CRM.mm
+V 19
+file 0-9.0.r16/6768
+K 5
+ZF.mm
+V 19
+file 0-1.0.r6/11968
+K 5
+apple
+V 18
+dir 0-19.0.r20/214
+K 14
+apple_list.xls
+V 22
+file 0-18.0.r18/582257
+K 8
+class.mm
+V 19
+file 0-8.0.r16/6965
+K 3
+pic
+V 17
+dir 3-1.0.r1/7463
+K 9
+planWL.mm
+V 20
+file 0-5.0.r17/13756
+K 9
+监控.mm
+V 20
+file 0-14.0.r15/6475
+END
+ENDREP
+id: 0.0.r20/671
+type: dir
+pred: 0.0.r19/420
+count: 20
+text: 20 352 306 306 0f01c5a52948005d98caa0c3ae4f5fb7
+cpath: /
+copyroot: 0 /
+
+3-18.0.r18/585449 delete-dir false false /附件
+
+3-18._0.t19-j add-dir false false /apple/附件
+19 /附件
+
+671 803
