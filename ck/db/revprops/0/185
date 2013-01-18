@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2012-03-21T08:31:51.305048Z
+K 7
+svn:log
+V 116
+增加读取列名称
+new ？：初始化两个对象时，成员间受到影响，郁闷是类变量的原因吗？
+END

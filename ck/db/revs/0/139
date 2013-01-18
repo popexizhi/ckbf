@@ -1,0 +1,95 @@
+id: 1-137.0-139.r139/0
+type: file
+pred: 1-137.0.r137/17
+count: 1
+text: 137 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 136-3s/_3
+cpath: /learning/python/course.py
+copyfrom: 138 /learning/course.py
+
+PLAIN
+K 9
+course.py
+V 23
+file 1-137.0-139.r139/0
+END
+ENDREP
+id: 1-138.0.r139/294
+type: dir
+pred: 1-138.0.r138/0
+count: 1
+text: 139 234 47 47 241ead12781baa42ebd55a6032d11f09
+cpath: /learning/python
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 19
+dir u-27.0.r125/916
+K 6
+backup
+V 18
+dir 6-27.0.r55/717
+K 6
+python
+V 20
+dir 1-138.0.r139/294
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r136/978
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r139/707
+type: dir
+pred: 0-26.0.r138/375
+count: 34
+text: 139 447 247 247 649e1ff7fe6e4e950e6b9a76303e1224
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r133/1725
+K 8
+learning
+V 19
+dir 0-26.0.r139/707
+K 8
+thinking
+V 20
+dir 0-24.0.r128/1459
+END
+ENDREP
+id: 0.0.r139/1023
+type: dir
+pred: 0.0.r138/690
+count: 139
+text: 139 856 154 154 9dd9dfbcfc47366f461cb9007e05b1d4
+cpath: /
+copyroot: 0 /
+
+1-137.0.r137/17 delete-file false false /learning/course.py
+
+1-137._0.t138-3u add-file false false /learning/python/course.py
+138 /learning/course.py
+
+1023 1160

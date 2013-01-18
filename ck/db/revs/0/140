@@ -1,0 +1,95 @@
+id: 2-140.0.r140/0
+type: dir
+count: 0
+cpath: /learning/python/scss
+copyroot: 0 /
+
+PLAIN
+K 9
+course.py
+V 23
+file 1-137.0-139.r139/0
+K 4
+scss
+V 18
+dir 2-140.0.r140/0
+END
+ENDREP
+id: 1-138.0.r140/175
+type: dir
+pred: 1-138.0.r139/294
+count: 2
+text: 140 82 80 80 39330172d809c9d2d87298e86ce348e9
+cpath: /learning/python
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 19
+dir u-27.0.r125/916
+K 6
+backup
+V 18
+dir 6-27.0.r55/717
+K 6
+python
+V 20
+dir 1-138.0.r140/175
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r136/978
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r140/589
+type: dir
+pred: 0-26.0.r139/707
+count: 35
+text: 140 329 247 247 b4752bca6402915eb48a0e7a735b5e9d
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r133/1725
+K 8
+learning
+V 19
+dir 0-26.0.r140/589
+K 8
+thinking
+V 20
+dir 0-24.0.r128/1459
+END
+ENDREP
+id: 0.0.r140/905
+type: dir
+pred: 0.0.r139/1023
+count: 140
+text: 140 738 154 154 90be5ce7f600145ef2cae057eace763e
+cpath: /
+copyroot: 0 /
+
+_2.0.t139-3v add-dir false false /learning/python/scss
+
+
+905 1042

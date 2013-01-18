@@ -1,0 +1,92 @@
+id: 2-105.0.r105/0
+type: file
+count: 0
+text: 27 0 526 509 af8df68489f98ff8d557a904a3a7afd2 a9d1f18a19d9b5db863fd5b68fae0c10a5f9972a 104-2w/_4
+cpath: /learning/sql/虚拟订单使用的insert的触发器.sql
+copyroot: 0 /
+
+PLAIN
+K 43
+虚拟订单使用的insert的触发器.sql
+V 19
+file 2-105.0.r105/0
+K 43
+虚拟订单使用的insert的触发器.txt
+V 23
+file 3-27.0.r27/1177300
+END
+ENDREP
+id: 1-27.0.r105/391
+type: dir
+pred: 1-27.0.r27/1177619
+count: 1
+text: 105 222 156 156 0fb48c6514fcb04c5b04bd07aa63031a
+cpath: /learning/sql
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 18
+dir u-27.0.r69/853
+K 6
+backup
+V 18
+dir 6-27.0.r55/717
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r105/391
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r105/768
+type: dir
+pred: 0-26.0.r96/847
+count: 21
+text: 105 546 209 209 e4890228d5b926edabf7dcb7546edf88
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r104/1322
+K 8
+learning
+V 19
+dir 0-26.0.r105/768
+K 8
+thinking
+V 20
+dir 0-24.0.r102/2051
+END
+ENDREP
+id: 0.0.r105/1083
+type: dir
+pred: 0.0.r104/1640
+count: 105
+text: 105 916 154 154 132935cdefbe56e4b2821e2379dff8d2
+cpath: /
+copyroot: 0 /
+
+_2.0.t104-2w add-file true false /learning/sql/虚拟订单使用的insert的触发器.sql
+
+
+1083 1221

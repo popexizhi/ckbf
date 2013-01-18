@@ -1,0 +1,85 @@
+PLAIN
+K 17
+crm_咨询单.sql
+V 21
+file 2-112.0.r112/456
+K 43
+虚拟订单使用的insert的触发器.sql
+V 19
+file 2-105.0.r105/0
+END
+ENDREP
+id: 1-27.0.r132/141
+type: dir
+pred: 1-27.0.r112/874
+count: 3
+text: 132 0 128 128 44446d7f5d8a89ea5972eb7f6e5136d0
+cpath: /learning/sql
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 19
+dir u-27.0.r125/916
+K 6
+backup
+V 18
+dir 6-27.0.r55/717
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r132/141
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r132/514
+type: dir
+pred: 0-26.0.r125/1293
+count: 28
+text: 132 291 210 210 166afe09542e0476067d8bf7d2f6a187
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 19
+dir 0-22.0.r131/699
+K 8
+learning
+V 19
+dir 0-26.0.r132/514
+K 8
+thinking
+V 20
+dir 0-24.0.r128/1459
+END
+ENDREP
+id: 0.0.r132/830
+type: dir
+pred: 0.0.r131/1016
+count: 132
+text: 132 664 153 153 7561c6b41d88cfb3b45bac2233ab50c9
+cpath: /
+copyroot: 0 /
+
+3-27.0.r27/1177300 delete-file false false /learning/sql/虚拟订单使用的insert的触发器.txt
+
+
+830 967

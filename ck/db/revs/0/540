@@ -1,0 +1,143 @@
+id: 3-540.0.r540/0
+type: file
+count: 0
+text: 246 0 1202 3467 303ad95f50c039a128b3c40bbc201d26 7fb990ef7f5827367412a82932d5120aafe3fa30 539-ez/_5
+cpath: /learning/python/scss/UseTime.back.py
+copyroot: 0 /
+
+PLAIN
+K 12
+Classroom.py
+V 23
+file 3-201.0.r201/28119
+K 11
+MProcess.py
+V 23
+file 3-193.0.r247/30391
+K 15
+UseTime.back.py
+V 19
+file 3-540.0.r540/0
+K 10
+UseTime.py
+V 22
+file 3-242.0.r246/1649
+K 14
+classroom.test
+V 23
+file 3-185.0.r201/26871
+K 9
+course.py
+V 27
+file 1-137.0-141.r247/31140
+K 11
+course.test
+V 22
+file 3-151.0.r236/1330
+K 3
+doc
+V 21
+dir 3-152.0.r535/3696
+K 9
+lifile.py
+V 23
+file 3-146.0.r201/28327
+END
+ENDREP
+id: 2-140.0.r540/624
+type: dir
+pred: 2-140.0.r535/4237
+count: 28
+text: 540 205 406 406 10e44c03fb6d2bb001ae77a8c17d61f8
+cpath: /learning/python/scss
+copyroot: 0 /
+
+PLAIN
+K 4
+scss
+V 20
+dir 2-140.0.r540/624
+END
+ENDREP
+id: 1-138.0.r540/840
+type: dir
+pred: 1-138.0.r535/4456
+count: 30
+text: 540 788 39 39 7c40bc3fea9bc5bcbda2e11f54afad96
+cpath: /learning/python
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 20
+dir u-27.0.r478/1220
+K 6
+backup
+V 19
+dir 6-27.0.r142/774
+K 5
+html5
+V 22
+dir 1-238.0.r238/30929
+K 6
+python
+V 20
+dir 1-138.0.r540/840
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 20
+dir 1-27.0.r370/2018
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 19
+dir e-27.0.r507/831
+END
+ENDREP
+id: 0-26.0.r540/1299
+type: dir
+pred: 0-26.0.r535/4918
+count: 126
+text: 540 997 289 289 ed6e1cfe468cdc20e6a9b7519b7460c8
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r536/6926
+K 8
+learning
+V 20
+dir 0-26.0.r540/1299
+K 8
+thinking
+V 21
+dir 0-24.0.r539/11272
+END
+ENDREP
+id: 0.0.r540/1620
+type: dir
+pred: 0.0.r539/11597
+count: 540
+text: 540 1451 156 156 a2c5a3becd254a6963510ab75a0344d6
+cpath: /
+copyroot: 0 /
+
+_3.0.t539-ez add-file true false /learning/python/scss/UseTime.back.py
+
+
+1620 1760

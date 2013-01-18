@@ -1,0 +1,80 @@
+id: 1-138.0.r138/0
+type: dir
+count: 0
+cpath: /learning/python
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 19
+dir u-27.0.r125/916
+K 6
+backup
+V 18
+dir 6-27.0.r55/717
+K 9
+course.py
+V 20
+file 1-137.0.r137/17
+K 6
+python
+V 18
+dir 1-138.0.r138/0
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r136/978
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r138/375
+type: dir
+pred: 0-26.0.r137/462
+count: 33
+text: 138 77 285 285 3a6b72bfa1380a2190e32d2f6670069b
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r133/1725
+K 8
+learning
+V 19
+dir 0-26.0.r138/375
+K 8
+thinking
+V 20
+dir 0-24.0.r128/1459
+END
+ENDREP
+id: 0.0.r138/690
+type: dir
+pred: 0.0.r137/779
+count: 138
+text: 138 523 154 154 29f587faae1ee3e6d54a96665d8905a3
+cpath: /
+copyroot: 0 /
+
+_1.0.t137-3t add-dir false false /learning/python
+
+
+690 826

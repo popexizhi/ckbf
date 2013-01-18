@@ -1,0 +1,164 @@
+PLAIN
+K 25
+动态列名称添加.sql
+V 21
+file 4-270.0.r270/414
+K 16
+游标insert.txt
+V 19
+file 3-289.0.r289/0
+K 25
+游标使用eg_cursor.sql
+V 21
+file 6-270.0.r270/637
+END
+ENDREP
+id: 2-270.0.r290/180
+type: dir
+pred: 2-270.0.r289/456
+count: 3
+text: 290 0 167 167 14c5df6af779872cdf7b0e86bd28ca2b
+cpath: /learning/sql/800data-process
+copyroot: 0 /
+
+PLAIN
+K 15
+800data-process
+V 20
+dir 2-270.0.r290/180
+K 2
+ZF
+V 20
+dir 2-274.0.r274/419
+K 17
+crm_咨询单.sql
+V 21
+file 2-112.0.r170/524
+K 20
+cscc项目内容.sql
+V 19
+file 2-147.0.r147/0
+K 30
+del_crm_digger咨询单据.sql
+V 22
+file 2-222.0.r222/2347
+K 14
+del_tigger.sql
+V 22
+file 4-222.0.r222/2148
+K 18
+scss_咨询单.sql
+V 21
+file 2-136.0.r136/520
+K 11
+tableif.sql
+V 22
+file 5-222.0.r222/2562
+K 6
+tigger
+V 21
+dir 2-211.0.r232/1372
+K 15
+totl_cursor.sql
+V 21
+file 2-258.0.r258/466
+K 14
+totl_weeks.sql
+V 21
+file 2-251.0.r251/369
+K 33
+update_crm_digger咨询单据.sql
+V 21
+file 2-135.0.r160/281
+K 25
+游标使用eg_cursor.sql
+V 21
+file 2-253.0.r253/482
+K 43
+虚拟订单使用的insert的触发器.sql
+V 19
+file 2-105.0.r105/0
+END
+ENDREP
+id: 1-27.0.r290/1085
+type: dir
+pred: 1-27.0.r289/1363
+count: 22
+text: 290 348 724 724 2a826e5043b215445f5655e736304dc3
+cpath: /learning/sql
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 20
+dir u-27.0.r166/1929
+K 6
+backup
+V 19
+dir 6-27.0.r142/774
+K 5
+html5
+V 22
+dir 1-238.0.r238/30929
+K 6
+python
+V 22
+dir 1-138.0.r247/32005
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 20
+dir 1-27.0.r290/1085
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 20
+dir e-27.0.r230/2273
+END
+ENDREP
+id: 0-26.0.r290/1545
+type: dir
+pred: 0-26.0.r289/1823
+count: 81
+text: 290 1240 292 292 28d91edfcab0e5e0b78b90757a3ae217
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 19
+dir 0-22.0.r287/768
+K 8
+learning
+V 20
+dir 0-26.0.r290/1545
+K 8
+thinking
+V 20
+dir 0-24.0.r288/2950
+END
+ENDREP
+id: 0.0.r290/1864
+type: dir
+pred: 0.0.r289/2142
+count: 290
+text: 290 1697 154 154 ed7e542d583ebc8afd378e7bb85cce3c
+cpath: /
+copyroot: 0 /
+
+3-277.0.r277/459 delete-file false false /learning/sql/800data-process/检索全部导入的xls表.sql
+
+
+1864 2003

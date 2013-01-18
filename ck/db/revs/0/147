@@ -1,0 +1,108 @@
+id: 2-147.0.r147/0
+type: file
+count: 0
+text: 136 0 507 851 17d6d68c144b9080830e233df0227a48 631dd41b434d91de604db74b6bd96191bd4ac69d 146-42/_4
+cpath: /learning/sql/cscc项目内容.sql
+copyroot: 0 /
+
+PLAIN
+K 17
+crm_咨询单.sql
+V 21
+file 2-112.0.r134/466
+K 20
+cscc项目内容.sql
+V 19
+file 2-147.0.r147/0
+K 18
+scss_咨询单.sql
+V 21
+file 2-136.0.r136/520
+K 33
+update_crm_digger咨询单据.sql
+V 21
+file 2-135.0.r135/600
+K 43
+虚拟订单使用的insert的触发器.sql
+V 19
+file 2-105.0.r105/0
+END
+ENDREP
+id: 1-27.0.r147/509
+type: dir
+pred: 1-27.0.r136/978
+count: 7
+text: 147 200 296 296 f43c4347e8076fdd9d8ecc562f56f124
+cpath: /learning/sql
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 19
+dir u-27.0.r125/916
+K 6
+backup
+V 19
+dir 6-27.0.r142/774
+K 6
+python
+V 21
+dir 1-138.0.r146/1057
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r147/509
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r147/923
+type: dir
+pred: 0-26.0.r146/1476
+count: 40
+text: 147 661 249 249 d54e278477d96c9bf38883d953a6ec66
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r144/1003
+K 8
+learning
+V 19
+dir 0-26.0.r147/923
+K 8
+thinking
+V 21
+dir 0-24.0.r145/16125
+END
+ENDREP
+id: 0.0.r147/1241
+type: dir
+pred: 0.0.r146/1797
+count: 147
+text: 147 1073 155 155 82523dced3f2927e6ca23113e448d9b6
+cpath: /
+copyroot: 0 /
+
+_2.0.t146-42 add-file true false /learning/sql/cscc项目内容.sql
+
+
+1241 1380

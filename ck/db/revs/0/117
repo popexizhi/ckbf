@@ -1,0 +1,132 @@
+id: 4-115.0.r117/0
+type: file
+pred: 4-115.0.r116/81
+count: 2
+text: 115 0 59 47 86ddcea35bba27f5e0e138db48c8542e 32ce3e6e7c11b64adc7b2acdf5c7bb49766ab0c6 116-38/_4
+cpath: /learning/ahk_l/other/autodoing.ahk
+copyroot: 0 /
+
+PLAIN
+K 13
+autodoing.ahk
+V 19
+file 4-115.0.r117/0
+END
+ENDREP
+id: 2-115.0.r117/282
+type: dir
+pred: 2-115.0.r116/365
+count: 2
+text: 117 221 48 48 7f4ebec4bb5c29b99feaadf02bb7026f
+cpath: /learning/ahk_l/other
+copyroot: 0 /
+
+PLAIN
+K 6
+AHK.mm
+V 20
+file 12-27.0.r35/927
+K 10
+c_code.ahk
+V 24
+file 16-27.0.r27/1181593
+K 3
+old
+V 23
+dir 18-27.0.r27/1182068
+K 5
+other
+V 20
+dir 2-115.0.r117/282
+K 7
+try.ahk
+V 23
+file v-27.0.r27/1180587
+K 14
+try_chlick.ahk
+V 20
+file 14-27.0.r69/316
+K 11
+try_out.ahk
+V 24
+file 10-27.0.r27/1180986
+K 13
+try_seach.ahk
+V 23
+file y-27.0.r27/1180783
+END
+ENDREP
+id: u-27.0.r117/797
+type: dir
+pred: u-27.0.r116/880
+count: 6
+text: 117 442 342 342 96868231756f837537a9a2886e1139da
+cpath: /learning/ahk_l
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 19
+dir u-27.0.r117/797
+K 6
+backup
+V 18
+dir 6-27.0.r55/717
+K 5
+shell
+V 18
+dir a-27.0.r82/823
+K 3
+sql
+V 19
+dir 1-27.0.r112/874
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 18
+dir e-27.0.r96/473
+END
+ENDREP
+id: 0-26.0.r117/1174
+type: dir
+pred: 0-26.0.r116/1257
+count: 25
+text: 117 951 210 210 1726c2ab6620632d3c287b6f7047809a
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r114/3687
+K 8
+learning
+V 20
+dir 0-26.0.r117/1174
+K 8
+thinking
+V 19
+dir 0-24.0.r111/714
+END
+ENDREP
+id: 0.0.r117/1492
+type: dir
+pred: 0.0.r116/1576
+count: 117
+text: 117 1325 154 154 d9a72a1df129d2672f03d274709700e5
+cpath: /
+copyroot: 0 /
+
+4-115.0.t116-38 modify-file true false /learning/ahk_l/other/autodoing.ahk
+
+
+1492 1631
