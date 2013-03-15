@@ -1,0 +1,151 @@
+id: 3-825.0.r825/0
+type: file
+count: 0
+text: 137 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 824-mw/_5
+cpath: /learning/python/scss/NtestNote.py
+copyroot: 0 /
+
+PLAIN
+K 12
+Classroom.py
+V 23
+file 3-201.0.r201/28119
+K 11
+MProcess.py
+V 23
+file 3-193.0.r247/30391
+K 11
+NoteTime.py
+V 20
+file 3-641.0.r753/76
+K 12
+NtestNote.py
+V 19
+file 3-825.0.r825/0
+K 15
+UseTime.back.py
+V 20
+file 3-540.0.r814/55
+K 10
+UseTime.py
+V 22
+file 3-242.0.r246/1649
+K 14
+classroom.test
+V 23
+file 3-185.0.r201/26871
+K 9
+course.py
+V 27
+file 1-137.0-141.r247/31140
+K 11
+course.test
+V 22
+file 3-151.0.r236/1330
+K 3
+doc
+V 20
+dir 3-152.0.r775/418
+K 9
+lifile.py
+V 23
+file 3-146.0.r201/28327
+END
+ENDREP
+id: 2-140.0.r825/701
+type: dir
+pred: 2-140.0.r814/742
+count: 68
+text: 825 196 492 492 99ee97b1faf2ac83abcf8ca1a0a296c3
+cpath: /learning/python/scss
+copyroot: 0 /
+
+PLAIN
+K 4
+scss
+V 20
+dir 2-140.0.r825/701
+END
+ENDREP
+id: 1-138.0.r825/916
+type: dir
+pred: 1-138.0.r814/958
+count: 70
+text: 825 864 39 39 13ceab998839d88a5c5f166fb8483b36
+cpath: /learning/python
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 20
+dir u-27.0.r739/1296
+K 6
+backup
+V 19
+dir 6-27.0.r142/774
+K 5
+html5
+V 22
+dir 1-238.0.r238/30929
+K 6
+python
+V 20
+dir 1-138.0.r825/916
+K 5
+shell
+V 19
+dir a-27.0.r779/609
+K 3
+sql
+V 20
+dir 1-27.0.r370/2018
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 21
+dir e-27.0.r813/10281
+END
+ENDREP
+id: 0-26.0.r825/1377
+type: dir
+pred: 0-26.0.r814/1420
+count: 211
+text: 825 1072 292 292 33b2fc806ce414fede41231ec7e1f925
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r823/1099
+K 8
+learning
+V 20
+dir 0-26.0.r825/1377
+K 8
+thinking
+V 20
+dir 0-24.0.r824/4779
+END
+ENDREP
+id: 0.0.r825/1698
+type: dir
+pred: 0.0.r824/5100
+count: 825
+text: 825 1530 155 155 7f278959455e58d2eb6352abb5ebf120
+cpath: /
+copyroot: 0 /
+
+_3.0.t824-mw add-file true false /learning/python/scss/NtestNote.py
+
+
+1698 1837
