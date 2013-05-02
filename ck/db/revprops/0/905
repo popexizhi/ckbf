@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2013-04-27T09:59:52.968750Z
+K 7
+svn:log
+V 101
+1.Bi_hist 使用history_list估算Mtime
+2.Bi 修改为random.triangular(0,2) 随机模拟历史数据
+END
