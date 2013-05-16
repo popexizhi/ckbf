@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2013-05-10T08:59:09.984375Z
+K 7
+svn:log
+V 121
+test_Note :add <IV> testdate A 包含 >Width 内容，AssertionError: 0 != 1
+[next] 分析A的问题是否判断有遗漏
+END
