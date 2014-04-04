@@ -1,0 +1,84 @@
+id: 1-992.0.r992/0
+type: dir
+count: 0
+cpath: /learning/ardino
+copyroot: 0 /
+
+PLAIN
+K 5
+ahk_l
+V 20
+dir u-27.0.r989/1899
+K 6
+ardino
+V 18
+dir 1-992.0.r992/0
+K 6
+backup
+V 19
+dir 6-27.0.r991/445
+K 5
+html5
+V 22
+dir 1-238.0.r238/30929
+K 6
+python
+V 21
+dir 1-138.0.r941/3283
+K 5
+shell
+V 19
+dir a-27.0.r779/609
+K 3
+sql
+V 20
+dir 1-27.0.r370/2018
+K 4
+tool
+V 22
+dir q-27.0.r27/1180452
+K 3
+vim
+V 20
+dir e-27.0.r984/8225
+END
+ENDREP
+id: 0-26.0.r992/417
+type: dir
+pred: 0-26.0.r991/904
+count: 268
+text: 992 77 327 327 a6dc883928d5312e055b02bacadc8de7
+cpath: /learning
+copyroot: 0 /
+
+PLAIN
+K 5
+apple
+V 18
+dir 0-19.0.r21/384
+K 8
+bain-map
+V 20
+dir 0-22.0.r968/2358
+K 8
+learning
+V 19
+dir 0-26.0.r992/417
+K 8
+thinking
+V 21
+dir 0-24.0.r986/16030
+END
+ENDREP
+id: 0.0.r992/734
+type: dir
+pred: 0.0.r991/1222
+count: 992
+text: 992 566 155 155 b2e31ab88aa2227c2f687f2ade347768
+cpath: /
+copyroot: 0 /
+
+_1.0.t991-rj add-dir false false /learning/ardino
+
+
+734 871
